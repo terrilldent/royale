@@ -1,0 +1,11 @@
+{
+  "name": "Alpha",
+  "version": "1.0",
+  "gameTypes": "melee, classic, 1v1",
+  "authors": "Terrill Dent",
+  "description": "Tank Bot Alpha.1",
+  "homepage": "terrill.ca/tanks",
+  "countryCodes": "ca",
+  "platform": "JVM",
+  "programmingLang": "Java 11"
+}
